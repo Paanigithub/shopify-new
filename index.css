@@ -1,0 +1,193 @@
+.li {
+    color: black;
+}
+
+.free-trial-button {
+    background-color: #000000;
+    border-radius: 20px;
+    color: #ffffff;
+    height: 40px;
+    width: 140px;
+}
+
+.button-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 10px;
+
+}
+
+.button-para {
+    border: 2px solid #4dffff;
+    padding: 10px;
+    border-radius: 30px;
+}
+
+.button2 {
+    border: none;
+    background-color: #ffffff;
+}
+
+.button1 {
+    border: none;
+    background-color: #000000;
+    border-radius: 30px;
+    color: #ffffff;
+    padding: 10px;
+}
+
+.button-cards-container {
+    background-image: linear-gradient(to right, #ffffff, #e6ffff, #66ffff);
+    background-size: cover;
+    height: 100vh;
+
+}
+
+#navitem6 {
+    color: black;
+    text-decoration: underline;
+    font-size: 15px;
+}
+
+#navitem5 {
+    color: black;
+    font-family: "Caveat";
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#nav {
+    background-color: #ffffff;
+}
+
+.icon {
+    display: flex;
+    flex-direction: row;
+}
+
+.button-small {
+    border: 2px solid grey;
+    background-color: white;
+    color: #000000;
+    margin-right: -5px;
+}
+
+.button1 {
+    border-left: none;
+}
+
+.heading1 {
+    font-size: 18px;
+}
+
+.f {
+    display: flex;
+    flex-direction: column;
+}
+
+.image {
+    height: 30px;
+    width: 10px;
+}
+
+.inr {
+    display: flex;
+    flex-direction: column;
+}
+
+#navitem1 {
+    color: black;
+}
+
+#navitem2 {
+    color: black;
+}
+
+#navitem3 {
+    color: black;
+}
+
+#navitem4 {
+    color: black;
+}
+
+.cards-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.card1 {
+    border: 1px solid #66ffff;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 15px;
+    margin: 10px;
+}
+
+.card2 {
+    border: none;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+    margin: 10px;
+    border-radius: 15px;
+
+}
+
+.card3 {
+    border: none;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+    margin: 10px;
+    border-radius: 15px;
+
+}
+
+.popular {
+    text-align: center;
+    height: 10px;
+}
+
+.para-popular {
+    background-image: linear-gradient(to right, #66ffff, #4dffb8);
+    border: none;
+    border-radius: 15px;
+    padding: 5px;
+    font-size: 12px;
+}
+
+.heading {
+    font-size: 30px;
+
+}
+
+.first-three-months {
+    background-color: #e6fff7;
+    text-align: center;
+    font-size: 10px;
+    padding: 5px;
+}
+
+.mini-heading {
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.description {
+    font-size: 10px;
+}
+
+.free-button {
+    background-color: #000000;
+    border: none;
+    border-radius: 15px;
+    color: #ffffff;
+    width: 140px;
+    height: 35px;
+}
